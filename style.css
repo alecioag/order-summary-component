@@ -46,6 +46,7 @@ body {
     color: var(--Very-pale-blue);
     background-color: var(---blue);
     border-radius: 0.625rem;
+    box-shadow: 0 10px 20px hsla(0, 0%, 0%, 0.5);
 }
 
 .btn--payment:hover {
